@@ -1,0 +1,14 @@
+layout_spectrum: 0.8408621
+typography_spectrum: 0.292302
+color:
+  saturation: 0.2301648
+  lightness: 0.8820324
+  brandStrength: 0.3942546
+  rhythmicContrast: 0.5654622
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: GESTLA
